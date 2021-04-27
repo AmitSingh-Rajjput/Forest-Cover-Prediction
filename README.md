@@ -159,6 +159,6 @@ We will be deploying the model to the Heroku Cloud platform.
 
 After compilation you can see this type of interface. Where you can give Custom files path for prediction or Default File prediction.
 
-![FD 12](https://user-images.githubusercontent.com/66250589/116272585-a7fd5180-a79e-11eb-86f1-b3047c216194.JPG)
+![FC 1](https://user-images.githubusercontent.com/66250589/116273514-6d47e900-a79f-11eb-86ef-520e57810832.JPG)
 
 
